@@ -2,7 +2,7 @@ Hi, I'm Mostafa 👋
 
 🎓 Software Engineering Student at ENSIASD Taroudant
 💻 Full-Stack Developer (React.js, Spring Boot, .NET)
-🛡️ Cybersecurity Enthusiast & CYBERDUNE Member
+🛡️ Cybersecurity Enthusiast
 📚 Always learning and building new projects
 🚀 Interested in Software Architecture, Web Development, and Information Systems
 
